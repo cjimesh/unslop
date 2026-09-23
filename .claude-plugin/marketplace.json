@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace-manifest.json",
+  "name": "unslop",
+  "owner": {
+    "name": "cjimesh",
+    "url": "https://github.com/cjimesh"
+  },
+  "description": "Install unslop as a Claude Code plugin.",
+  "plugins": [
+    {
+      "name": "unslop",
+      "source": "./",
+      "description": "Rewrite work text so the answer comes first, it is short, and it uses plain words.",
+      "license": "MIT",
+      "keywords": ["writing", "editing", "concise", "bluf", "documentation"]
+    }
+  ]
+}

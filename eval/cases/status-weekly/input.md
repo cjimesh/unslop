@@ -1,0 +1,1 @@
+tighten: status update for this week. Facts: shipped iOS 18 support to GA on Tuesday; flaky-test detector is 70% done, expected next Wed; blocked on security review for SSO change, waiting on AppSec since Sep 15; hiring: 1 offer accepted (starts Oct 6).

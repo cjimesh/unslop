@@ -1,0 +1,15 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "unslop",
+  "description": "Rewrite work text so the answer comes first, it is short, and it uses plain words.",
+  "version": "0.1.0",
+  "author": {
+    "name": "cjimesh",
+    "url": "https://github.com/cjimesh"
+  },
+  "homepage": "https://github.com/cjimesh/unslop",
+  "repository": "https://github.com/cjimesh/unslop",
+  "license": "MIT",
+  "keywords": ["writing", "editing", "concise", "bluf", "documentation"],
+  "skills": ["./"]
+}
